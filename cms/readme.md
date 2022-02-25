@@ -1,0 +1,1 @@
+# lato5r font  , binary_vertical_lato5rc2 , sslato5rp.ttf yha pr Dekhe Aur daunlod kre.
