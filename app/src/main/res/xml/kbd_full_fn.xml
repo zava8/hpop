@@ -29,7 +29,7 @@
 <Key android:codes="@integer/key_forward_del" android:keyLabel="dil" android:isRepeatable="true" android:isModifier="true"    android:keyEdgeFlags="right" />
 </Row>
 <Row>
-<Key android:keyLabel="ktl" android:keyWidth="10%p" android:codes="@integer/key_ctrl_left" android:isSticky="true" android:keyEdgeFlags="left" android:isModifier="true" />
+<Key android:keyIcon="@drawable/simbl_ctrl" android:keyWidth="10%p" android:codes="@integer/key_ctrl_left" android:isSticky="true" android:keyEdgeFlags="left" android:isModifier="true" />
 <Key android:codes="@integer/key_fkey_f9" android:keyWidth="8.035714%p" android:isModifier="true" android:keyLabel="p9" />
 <Key android:codes="@integer/key_fkey_f10" android:keyWidth="8.035714%p" android:isModifier="true" android:keyLabel="p:" />
 <Key android:codes="@integer/key_fkey_f11" android:keyWidth="8.035714%p" android:isModifier="true" android:keyLabel="p;" />

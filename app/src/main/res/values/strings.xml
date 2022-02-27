@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-<string name="english_ime_name">hin54_keypad</string>
-<string name="english_ime_settings">hin54_keypad setiNg</string>
+<string name="english_ime_name">AWerty</string>
+<string name="english_ime_settings">AWerty setiNg</string>
 <string name="english_ime_input_options">input opsns</string>
 <string name="title_keyboard_view_settings">kibord viyu setiNg</string>
 <string name="title_keyboard_height_portrait">kibord hait portret</string>
