@@ -224,7 +224,7 @@ public class LatinKeyboardBaseView extends View implements PointerTracker.UIProx
     
     public LatinKeyboardBaseView(Context context, AttributeSet attrs) { this(context, attrs, R.attr.keyboardViewStyle); }
     public LatinKeyboardBaseView(Context context, AttributeSet attrs, int defStyle) { super(context, attrs, defStyle);
-        fontsoverride.setDefaultFont(context,"DEFAULT",R.font.hin55);
+        fontsoverride.setDefaultFont(context,"DEFAULT",R.font.hin54);
 //        fontsoverride.setDefaultFont(context,"DEFAULT_BOLD",R.font.lato5r);
         if (!isInEditMode()) Log.i(TAG, "kreating niyu lAtinkibordbesviyu " + this);
         setRenderModeIfPossible(LatinIME.sKeyboardSettings.renderMode);

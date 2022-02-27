@@ -23,7 +23,7 @@ public class Main extends Activity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        fontsoverride.setDefaultFont(this,"DEFAULT",R.font.hin55);
+        fontsoverride.setDefaultFont(this,"DEFAULT",R.font.hin54);
 //        fontsoverride.setDefaultFont(this,"MONOSPACE",R.font.lato510c);
         setContentView(R.layout.main);
         String html = getString(R.string.main_body);
