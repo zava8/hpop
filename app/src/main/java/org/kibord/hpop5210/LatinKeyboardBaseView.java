@@ -500,8 +500,7 @@ public class LatinKeyboardBaseView extends View implements PointerTracker.UIProx
                 }
                 String altHint = "";
                 int althint_char_nos=0;
-
-
+                m_paint_lebl.setTypeface(Typeface.DEFAULT);
                 switch (label)
                 {
                     case "A":
@@ -577,7 +576,7 @@ public class LatinKeyboardBaseView extends View implements PointerTracker.UIProx
                     case "e": case "r": case "t": case "y": case "u": case "i":  case "o": case "p":
                     case "a": case "s": case "d": case "g": case "l":
                     case "c":  case "b":  case "n": case "m":
-                        m_paint_lebl.setTypeface(Typeface.DEFAULT);
+//                        m_paint_lebl.setTypeface(Typeface.DEFAULT);
                         lebl_klr = 0xffffffff;
                         lebl_size = (int)(mKeyTextSize * 1.8f);
                         lebl_baseline = top_y + labelHeight * KEY_LABEL_VERTICAL_ADJUSTMENT_FACTOR * 1.8f;
@@ -599,25 +598,25 @@ public class LatinKeyboardBaseView extends View implements PointerTracker.UIProx
                         lebl_klr = 0xff00cccc;
                         lebl_size = (int)(mKeyTextSize * 1.4f);
                         lebl_baseline = top_y + labelHeight * KEY_LABEL_VERTICAL_ADJUSTMENT_FACTOR * 1.8f;
-                        m_paint_lebl.setTypeface(Typeface.DEFAULT);
+//                        m_paint_lebl.setTypeface(Typeface.DEFAULT);
                     break;
                     case "alt":
                         lebl_klr = 0xff00cccc;
                         lebl_size = (int)(mKeyTextSize * 1.4f);
                         lebl_baseline = top_y + labelHeight * KEY_LABEL_VERTICAL_ADJUSTMENT_FACTOR * 1.8f;
-                        m_paint_lebl.setTypeface(Typeface.DEFAULT);
+//                        m_paint_lebl.setTypeface(Typeface.DEFAULT);
                     break;
                     case "tab":
                         lebl_klr = 0xff00cccc;
                         lebl_size = (int)(mKeyTextSize * 1.1f);
                         lebl_baseline = top_y + labelHeight * KEY_LABEL_VERTICAL_ADJUSTMENT_FACTOR * 1.8f;
-                        m_paint_lebl.setTypeface(Typeface.DEFAULT);
+//                        m_paint_lebl.setTypeface(Typeface.DEFAULT);
                         break;
                     case "sif":
                         lebl_klr = 0xff00cccc;
                         lebl_size = (int)(mKeyTextSize * 1.4f);
                         lebl_baseline = top_y + labelHeight * KEY_LABEL_VERTICAL_ADJUSTMENT_FACTOR * 1.8f;
-                        m_paint_lebl.setTypeface(Typeface.DEFAULT);
+//                        m_paint_lebl.setTypeface(Typeface.DEFAULT);
                     break;
 
                 }
