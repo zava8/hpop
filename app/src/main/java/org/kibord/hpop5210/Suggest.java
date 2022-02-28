@@ -12,7 +12,7 @@ import android.util.Log;
 import android.view.View;
 
 public class Suggest implements Dictionary.WordCallback {
-	private static String TAG = "hpop5210"; //"PCKeyboard";
+	private static String TAG = "hindik"; //"PCKeyboard";
     public static final int APPROX_MAX_WORD_LENGTH = 32;
     public static final int CORRECTION_NONE = 0;
     public static final int CORRECTION_BASIC = 1;

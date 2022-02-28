@@ -40,7 +40,7 @@ import java.util.Locale;
 
 public class LatinKeyboard extends Keyboard {
     private static final boolean DEBUG_PREFERRED_LETTER = true;
-    private static final String TAG = "hpop5210";
+    private static final String TAG = "hindik";
     private static final int OPACITY_FULLY_OPAQUE = 255;
     private static final int SPACE_LED_LENGTH_PERCENT = 80;
     private Drawable mShiftLockIcon;private Drawable mShiftLockPreviewIcon;private Drawable mOldShiftIcon;

@@ -12,7 +12,7 @@
         <intent-filter><action android:name="android.view.InputMethod"/></intent-filter>
         <meta-data android:name="android.view.im" android:resource="@xml/method" />
     </service>
-    <activity android:name="org.kibord.hpop5210.Main" android:label="hpop5210">
+    <activity android:name="org.kibord.hpop5210.Main" android:label="hindik">
         <intent-filter><action android:name="android.intent.action.MAIN"/><category android:name="android.intent.category.LAUNCHER"/></intent-filter>
     </activity>
     <activity android:name="org.kibord.hpop5210.LatinIMESettings" android:label="@string/english_ime_settings">
