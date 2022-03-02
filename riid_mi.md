@@ -1,12 +1,12 @@
-# hpop5210
+# krnatk
 qndroed popqp kibord klond &amp; cenjd phrom 
-[hpop5210 kiibord on gitHb onli](https://github.com/klausw/hackerskeyboard)
+[krnatk kiibord on gitHb onli](https://github.com/klausw/hackerskeyboard)
 ![](https://i.pinimg.com/originals/e8/e8/c8/e8e8c80df0952ad32725b24fdbaff83b.gif)
 ![](https://photos.app.goo.gl/xb4q21EsQ6yWAo6m7)
 
 phrst pliij instal phont ( hao tu instal dipAnds on yuAr phon modAl)
-[1. daunlod & install roboto_heks_jk phont]( https://github.com/Font77/hpop5210/tree/master/app/src/main/res/font )
-[2. daulod hpop5210.apk & Dn instal on yuAr Androed mobail] (https://github.com/Font77/hpop5210/tree/master/app/release)
+[1. daunlod & install roboto_heks_jk phont]( https://github.com/Font77/krnatk/tree/master/app/src/main/res/font )
+[2. daulod krnatk.apk & Dn instal on yuAr Androed mobail] (https://github.com/Font77/krnatk/tree/master/app/release)
 
 phonetiks
 ![](https://photos.app.goo.gl/xb4q21EsQ6yWAo6m7)
@@ -16,7 +16,7 @@ phonetiks
 [mor imejis qt:](https://pin.it/1ztSTHM)
 
 --------bilo tekst tu bi viyud in roboto_heks_jk.ttf phont--------
-**hpop5210** kibord is sopht_kiiboard phur heksifglish vic hqj **onli smal kes**  ~~ no kqps ~~ .
+**krnatk** kibord is sopht_kiiboard phur heksifglish vic hqj **onli smal kes**  ~~ no kqps ~~ .
 in heksi aski kods phur :;&lt;=&gt;? got siphtid siks stqps rait
 so bilo translitresn_translesqn is nidid phur 
 ifglish tu heksifnglish knvrjn.

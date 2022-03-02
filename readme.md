@@ -1,14 +1,14 @@
-# **[daunlod](./daunlod/)** me zakr hpop5210.apk pr klik kre. **[डाउनलोड](./daunlod/)** में जाकर hpop5210.apk पर क्लिक करें।
+# **[daunlod](./daunlod/)** me zakr krnatk.apk pr klik kre. **[डाउनलोड](./daunlod/)** में जाकर krnatk.apk पर क्लिक करें।
 
 ![daunlod kre](./cms/daunlod_hao1.png)
 
-[hpop5210.apk . कैसे डाउनलोड करें के लिए वीडियो hpop5210.apk kAise daunlod kre ke liye vidio](https://youtu.be/hHlG011mZc8)
+[krnatk.apk . कैसे डाउनलोड करें के लिए वीडियो krnatk.apk kAise daunlod kre ke liye vidio](https://youtu.be/hHlG011mZc8)
 
-1. fir Apne mobile ke folders me zae Aur Download folder me hpop5210.apk ko click/dbl_klik krke instal krna shuru kre.फिर अपने मोबाइल के फोल्डर में जाएं और डाउनलोड फोल्डर में hpop5210.apk इंस्टॉल करना शुरू करने के लिए क्लिक/डबल_क्लिक करें।
+1. fir Apne mobile ke folders me zae Aur Download folder me krnatk.apk ko click/dbl_klik krke instal krna shuru kre.फिर अपने मोबाइल के फोल्डर में जाएं और डाउनलोड फोल्डर में krnatk.apk इंस्टॉल करना शुरू करने के लिए क्लिक/डबल_क्लिक करें।
 
 1. open kre.
     1. st input mATHAd btn klik kre
-    2. **hpop5210** selekt kre
+    2. **krnatk** selekt kre
 
 1. **[google play store me zae Aur zFont 3](https://play.google.com/store/apps/details?id=com.htetznaing.zfont2)** search kre Aur **install** kre.
 
@@ -19,11 +19,11 @@
        4. Apply btn klik kre.
        5. reboot btn klik kre.
 
-## Ab apke phone me hpop5210 keyboard ke saTh lato5r.ttf instal ho gye h
+## Ab apke phone me krnatk keyboard ke saTh lato5r.ttf instal ho gye h
 
 ### [hex nmbrs : 0123456789LJQWXF](http://github.com/zava8/hex) mlyalm Telugu hinDi guzraTi mrathi bNgali pnzabi urDu knrra Tmil
 
-![hinDiabc keyboard](./cms/kiiz_sym_hindi_hpop5210_phoniks.gif)
+![hinDiabc keyboard](./cms/kiiz_sym_hindi_krnatk_phoniks.gif)
 
 [zinglish for :](http://zinglish.vercel.app)
     1. hinDi / mrathi / nepali / grrvali / urDu
@@ -66,7 +66,7 @@ vhen user press this button , tekst on current vebpage gets changed as in bilo s
 5. heksadesiml nmbrs
 
 ### reletid liNks
-1. [gitHb ripojitri](http://github.com/Font77/hpop5210)
+1. [gitHb ripojitri](http://github.com/Font77/krnatk)
 2. [roboto phonts daunlod qur instal kre][roboto heksbin phonts]
 3. [vk](http://vk.com/etphor)
 4. [tmblr](http://heksinglish.tumblr.com)
@@ -98,6 +98,6 @@ vhen user press this button , tekst on current vebpage gets changed as in bilo s
 
 #### rephrens lifks:  
 [cms]: ./cms/
-[hpop5210_heks.apk]: https://github.com/Font77/heks810/blob/master/hpop5210_heks.apk
+[krnatk_heks.apk]: https://github.com/Font77/heks810/blob/master/krnatk_heks.apk
 
 font **fontforge** 

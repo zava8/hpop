@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-<string name="english_ime_name">hindik</string>
-<string name="english_ime_settings">hindik setiNg</string>
+<string name="english_ime_name">krnatk</string>
+<string name="english_ime_settings">krnatk setiNg</string>
 <string name="english_ime_input_options">input opsns</string>
 <string name="title_keyboard_view_settings">kibord viyu setiNg</string>
 <string name="title_keyboard_height_portrait">kibord hait portret</string>
@@ -337,16 +337,16 @@
 <string name="main_setup_tAst">test</string>
 <string name="main_body"><Data>
 <![CDATA["
-<h2>hpop5210 kiviz Android keyboard</h2>
+<h2>krnatk kiviz Android keyboard</h2>
 <p>q_to_k w_to_v j_to_z so qwj-to-kvz so kvz keyboard</p>
-<h3>enable keyboard--enable hpop5210</h3>
+<h3>enable keyboard--enable krnatk</h3>
 <blockAuote>
 <p>&#8226; open  system input settings <b>enable keyboard</b> button above.</p>
-<p>&#8226; find <b>hpop5210</b> in  input method list, tick  hpop5210</p>
+<p>&#8226; find <b>krnatk</b> in  input method list, tick  krnatk</p>
 </blockAuote>
-<h3>set input method - hpop5210</h3>
+<h3>set input method - krnatk</h3>
 <blockAuote>
-<p><b>set input method</b> -- select hpop5210</p>
+<p><b>set input method</b> -- select krnatk</p>
 </blockAuote>
 <h3>opsnl: selekt input language:</h3>
 <blockAuote>
@@ -358,14 +358,14 @@
 <blockAuote>
 <p>&#8226; prAs  <b>mor</b> button above tu du a play store src phor  kiibord's dAvlApAr nem, wis vil sho phri daunlodebl kmplisAn diksneri pAkezis.</p>
 </blockAuote>
-<p>pliiz go tu  <a href='https://github.com/zava8/hpop5210'>github zava8 hpop5210</a> for more inphormesn, including  user's guide, issue tracker, n discussion group.</p>
+<p>pliiz go tu  <a href='https://github.com/zava8/krnatk'>github zava8 krnatk</a> for more inphormesn, including  user's guide, issue tracker, n discussion group.</p>
 "]]>
 </Data></string>
 <string name="text_tAst">test</string>
 <string name="seek_pref_0">0%</string>
 <string name="seek_pref_val">x%</string>
 <string name="seek_pref_max">100%</string>
-<string name="notification_channel_name">hpop5210</string>
-<string name="notification_channel_description">hpop5210</string>
+<string name="notification_channel_name">krnatk</string>
+<string name="notification_channel_description">krnatk</string>
 <string name="notification_action_settings">settings</string>
 </resources>
