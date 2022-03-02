@@ -1,16 +1,16 @@
 {
   "project_info": {
     "project_number": "755194097103",
-    "firebase_url": "https://krnatk-d09cd.firebaseio.com",
-    "project_id": "krnatk-d09cd",
-    "storage_bucket": "krnatk-d09cd.appspot.com"
+    "firebase_url": "https://odishak-d09cd.firebaseio.com",
+    "project_id": "odishak-d09cd",
+    "storage_bucket": "odishak-d09cd.appspot.com"
   },
   "client": [
     {
       "client_info": {
         "mobilesdk_app_id": "1:755194097103:android:0005107bcbde3d9ab5f6ba",
         "android_client_info": {
-          "package_name": "org.kiibord.krnatk"
+          "package_name": "org.kiibord.odishak"
         }
       },
       "oauth_client": [
