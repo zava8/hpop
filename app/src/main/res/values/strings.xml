@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-<string name="english_ime_name">odishak</string>
-<string name="english_ime_settings">odishak setiNg</string>
+<string name="english_ime_name">tmilk</string>
+<string name="english_ime_settings">tmilk setiNg</string>
 <string name="english_ime_input_options">input opsns</string>
 <string name="title_keyboard_view_settings">kibord viyu setiNg</string>
 <string name="title_keyboard_height_portrait">kibord hait portret</string>
@@ -337,16 +337,16 @@
 <string name="main_setup_tAst">test</string>
 <string name="main_body"><Data>
 <![CDATA["
-<h2>odishak kiviz Android keyboard</h2>
+<h2>tmilk kiviz Android keyboard</h2>
 <p>q_to_k w_to_v j_to_z so qwj-to-kvz so kvz keyboard</p>
-<h3>enable keyboard--enable odishak</h3>
+<h3>enable keyboard--enable tmilk</h3>
 <blockAuote>
 <p>&#8226; open  system input settings <b>enable keyboard</b> button above.</p>
-<p>&#8226; find <b>odishak</b> in  input method list, tick  odishak</p>
+<p>&#8226; find <b>tmilk</b> in  input method list, tick  tmilk</p>
 </blockAuote>
-<h3>set input method - odishak</h3>
+<h3>set input method - tmilk</h3>
 <blockAuote>
-<p><b>set input method</b> -- select odishak</p>
+<p><b>set input method</b> -- select tmilk</p>
 </blockAuote>
 <h3>opsnl: selekt input language:</h3>
 <blockAuote>
@@ -358,14 +358,14 @@
 <blockAuote>
 <p>&#8226; prAs  <b>mor</b> button above tu du a play store src phor  kiibord's dAvlApAr nem, wis vil sho phri daunlodebl kmplisAn diksneri pAkezis.</p>
 </blockAuote>
-<p>pliiz go tu  <a href='https://github.com/zava8/odishak'>github zava8 odishak</a> for more inphormesn, including  user's guide, issue tracker, n discussion group.</p>
+<p>pliiz go tu  <a href='https://github.com/zava8/tmilk'>github zava8 tmilk</a> for more inphormesn, including  user's guide, issue tracker, n discussion group.</p>
 "]]>
 </Data></string>
 <string name="text_tAst">test</string>
 <string name="seek_pref_0">0%</string>
 <string name="seek_pref_val">x%</string>
 <string name="seek_pref_max">100%</string>
-<string name="notification_channel_name">odishak</string>
-<string name="notification_channel_description">odishak</string>
+<string name="notification_channel_name">tmilk</string>
+<string name="notification_channel_description">tmilk</string>
 <string name="notification_action_settings">settings</string>
 </resources>

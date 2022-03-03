@@ -1,45 +1,45 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="org.kibord.odishak">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="org.kibord.tmilk">
     <uses-permission android:name="android.permission.VIBRATE"/>
     <uses-permission android:name="android.permission.READ_USER_DICTIONARY" />
     <uses-permission android:name="android.permission.WRITE_USER_DICTIONARY" />
     <uses-feature android:name="android.hardware.microphone" android:required="false" />
     <uses-feature android:name="android.hardware.faketouch" android:required="false" />
     <uses-feature android:name="android.hardware.touchscreen" android:required="false" />
-    <application android:label="@string/english_ime_name" android:allowBackup="true" android:backupAgent="org.kibord.odishak.LatinIMEBackupAgent"
+    <application android:label="@string/english_ime_name" android:allowBackup="true" android:backupAgent="org.kibord.tmilk.LatinIMEBackupAgent"
         android:restoreAnyVersion="true" android:hardwareAccelerated="false" android:killAfterRestore="false"
-        android:icon="@drawable/odishak_icon">
-    <service android:name="org.kibord.odishak.LatinIME" android:label="@string/english_ime_name" android:permission="android.permission.BIND_INPUT_METHOD">
+        android:icon="@drawable/tmilk_icon">
+    <service android:name="org.kibord.tmilk.LatinIME" android:label="@string/english_ime_name" android:permission="android.permission.BIND_INPUT_METHOD">
         <intent-filter><action android:name="android.view.InputMethod"/></intent-filter>
         <meta-data android:name="android.view.im" android:resource="@xml/method" />
     </service>
-    <activity android:name="org.kibord.odishak.Main" android:label="odishak">
+    <activity android:name="org.kibord.tmilk.Main" android:label="tmilk">
         <intent-filter><action android:name="android.intent.action.MAIN"/><category android:name="android.intent.category.LAUNCHER"/></intent-filter>
     </activity>
-    <activity android:name="org.kibord.odishak.LatinIMESettings" android:label="@string/english_ime_settings">
+    <activity android:name="org.kibord.tmilk.LatinIMESettings" android:label="@string/english_ime_settings">
         <intent-filter><action android:name="android.intent.action.MAIN"/><action android:name="org.kiibord.kiibord.SETTINGS"/><category android:name="android.intent.category.DEFAULT" /></intent-filter>
     </activity>
-    <activity android:name="org.kibord.odishak.InputLanguageSelection" android:label="@string/language_selection_title">
+    <activity android:name="org.kibord.tmilk.InputLanguageSelection" android:label="@string/language_selection_title">
         <intent-filter>
             <action android:name="android.intent.action.MAIN"/>
             <action android:name="org.kiibord.kiibord.INPUT_LANGUAGE_SELECTION"/>
             <category android:name="android.intent.category.DEFAULT" />
         </intent-filter>
     </activity>
-    <activity android:name="org.kibord.odishak.PrefScreenActions" android:label="@string/pref_screen_actions_title">
+    <activity android:name="org.kibord.tmilk.PrefScreenActions" android:label="@string/pref_screen_actions_title">
         <intent-filter>
             <action android:name="android.intent.action.MAIN"/>
             <action android:name="org.kiibord.kiibord.PREFS_ACTIONS"/>
             <category android:name="android.intent.category.DEFAULT" />
         </intent-filter>
     </activity>            
-    <activity android:name="org.kibord.odishak.PrefScreenView" android:label="@string/pref_screen_actions_title">
+    <activity android:name="org.kibord.tmilk.PrefScreenView" android:label="@string/pref_screen_actions_title">
         <intent-filter>
             <action android:name="android.intent.action.MAIN"/>
             <action android:name="org.kiibord.kiibord.PREFS_VIEW"/>
             <category android:name="android.intent.category.DEFAULT" />
         </intent-filter>
     </activity>
-    <activity android:name="org.kibord.odishak.PrefScreenFeedback" android:label="@string/pref_screen_feedback_title">
+    <activity android:name="org.kibord.tmilk.PrefScreenFeedback" android:label="@string/pref_screen_feedback_title">
         <intent-filter>
             <action android:name="android.intent.action.MAIN"/>
             <action android:name="org.kiibord.kiibord.PREFS_FEEDBACK"/>
