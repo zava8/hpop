@@ -506,7 +506,8 @@ public class LatinKeyboardBaseView extends View implements PointerTracker.UIProx
                     case "A":
                         althint_char_nos=0;
                         lebl_klr = 0xffff99dd;
-                        lebl_size = (int)(mKeyTextSize * 1.8f);
+                        lebl_size = (int)(mKeyTextSize * 1); // tmil case
+//                        lebl_size = (int)(mKeyTextSize * 1.8f); non-tmil
                         lebl_baseline = top_y + labelHeight * KEY_LABEL_VERTICAL_ADJUSTMENT_FACTOR * 1.8f;
                         break;
                     case "D":
@@ -530,7 +531,8 @@ public class LatinKeyboardBaseView extends View implements PointerTracker.UIProx
                     case "H":
                         althint_char_nos=0;
                         lebl_klr = 0xffffff00;
-                        lebl_size = (int)(mKeyTextSize * 1.8f);
+                        lebl_size = (int)(mKeyTextSize * 0.8f); // tmil case
+//                        lebl_size = (int)(mKeyTextSize * 1.8f); // non-tmil case
                         lebl_baseline = top_y + labelHeight * KEY_LABEL_VERTICAL_ADJUSTMENT_FACTOR * 1.8f;
                         break;
                     case "k": case "v": case "z":
@@ -571,8 +573,14 @@ public class LatinKeyboardBaseView extends View implements PointerTracker.UIProx
                         lebl_size = (int)(mKeyTextSize * mLabelScale);
                         althint_char_nos = 2;
                     break;
+                    case "s":
+                        lebl_klr = 0xffffffff;
+                        lebl_size = (int)(mKeyTextSize * 1); // tmil case
+//                        lebl_size = (int)(mKeyTextSize * 1.8f); // non-tmil case
+                        lebl_baseline = top_y + labelHeight * KEY_LABEL_VERTICAL_ADJUSTMENT_FACTOR * 1.8f;
+                    break;
                     case "e": case "r": case "t": case "y": case "u": case "i":  case "o": case "p":
-                    case "a": case "s": case "d": case "g": case "l":
+                    case "a": case "d": case "g": case "l":
                     case "c":  case "b":  case "n": case "m":
                         lebl_klr = 0xffffffff;
                         lebl_size = (int)(mKeyTextSize * 1.8f);
