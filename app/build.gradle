@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId 'org.kibord.latink'
+        applicationId 'org.kibord.latinkb'
 // vectorDrawables.useSupportLibrary = true
 // Support Library 26.0 provides support to the Fonts in XML feature on devices running
 // Android 4.1 (API level 16) and higher.

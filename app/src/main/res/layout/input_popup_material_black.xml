@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"         android:layout_width="match_parent"         android:layout_height="wrap_content"         android:orientation="horizontal"         android:background="@drawable/keyboard_popup_panel_background"
         android:paddingLeft="16dip" android:paddingRight="16dip" >
-    <org.kibord.latink.LatinKeyboardBaseView
+    <org.kibord.latinkb.LatinKeyboardBaseView
             xmlns:latin="http://schemas.android.com/apk/res-auto"
             android:id="@+id/LatinKeyboardBaseView"
             android:layout_alignParentBottom="true"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="@color/latinkeyboard_transparent"
+            android:background="@color/LatinKeyboard_transparent"
 
             latin:keyBackground="@drawable/btn_keyboard_key_popup_material_black"
             latin:keyHysteresisDistance="0dip"

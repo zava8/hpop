@@ -6,6 +6,6 @@
     android:fontFamily="@font/latin54"
     android:gravity="left"
     android:minWidth="32dip"
-    android:textColor="@color/latinkeyboard_key_color_white"
+    android:textColor="@color/LatinKeyboard_key_color_white"
     android:textSize="40sp"
     android:typeface="normal" />
