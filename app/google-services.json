@@ -1,16 +1,16 @@
 {
   "project_info": {
     "project_number": "755194097103",
-    "firebase_url": "https://tmilk-d09cd.firebaseio.com",
-    "project_id": "tmilk-d09cd",
-    "storage_bucket": "tmilk-d09cd.appspot.com"
+    "firebase_url": "https://latink-d09cd.firebaseio.com",
+    "project_id": "latink-d09cd",
+    "storage_bucket": "latink-d09cd.appspot.com"
   },
   "client": [
     {
       "client_info": {
         "mobilesdk_app_id": "1:755194097103:android:0005107bcbde3d9ab5f6ba",
         "android_client_info": {
-          "package_name": "org.kiibord.tmilk"
+          "package_name": "org.kiibord.latink"
         }
       },
       "oauth_client": [
