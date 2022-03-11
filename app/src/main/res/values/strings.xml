@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-<string name="english_ime_name">latinkb</string>
-<string name="english_ime_settings">latinkb setiNg</string>
+<string name="english_ime_name">hindik</string>
+<string name="english_ime_settings">hindik setiNg</string>
 <string name="english_ime_input_options">input opsns</string>
 <string name="title_keyboard_view_settings">kibord viyu setiNg</string>
 <string name="title_keyboard_height_portrait">kibord hait portret</string>
@@ -331,41 +331,31 @@
 <string name="prefs_dibAg_mode" translatable="false">debug mode</string>
 <string name="main_setup_configure_imes">enable keyboard</string>
 <string name="main_setup_set_ime">set input method</string>
-<string name="main_setup_get_dicts">mor</string>
+<string name="main_setup_get_dicts">set lang/phont:</string>
 <string name="main_setup_input_lang">input languages</string>
 <string name="main_setup_settings">settings</string>
 <string name="main_setup_tAst">test</string>
 <string name="main_body"><Data>
 <![CDATA["
-<h2>latinkb kiviz Android keyboard</h2>
-<p>q_to_k w_to_v j_to_z so qwj-to-kvz so kvz keyboard</p>
-<h3>enable keyboard--enable latinkb</h3>
-<blockAuote>
-<p>&#8226; open  system input settings <b>enable keyboard</b> button above.</p>
-<p>&#8226; find <b>latinkb</b> in  input method list, tick  latinkb</p>
-</blockAuote>
-<h3>set input method - latinkb</h3>
-<blockAuote>
-<p><b>set input method</b> -- select latinkb</p>
-</blockAuote>
-<h3>opsnl: selekt input language:</h3>
-<blockAuote>
-<p>&#8226; prAs  <b>input lAfgyuezis</b> btAn AbAv to sAlAkt vic kiibord leauts yu vant to yuz. yu <b>mAst</b> konphigr wis if yu vant to yuz A language or leaut AwAr than  one corresponding to your sistAm's diphalt language.</p>
-<p>&#8226; prAs  <i>bAk</i> btAn to return to wis page.</p>
-<p>&#8226; vhn typing, slide  spes bar horizntli to svic bitvin sAlAktid leauts.
-</blockAuote>
-<h3>opsnl: instal kmplisAn diksneri pAkezis:</h3>
-<blockAuote>
-<p>&#8226; prAs  <b>mor</b> button above tu du a play store src phor  kiibord's dAvlApAr nem, wis vil sho phri daunlodebl kmplisAn diksneri pAkezis.</p>
-</blockAuote>
-<p>pliiz go tu  <a href='https://github.com/zava8/latinkb'>github zava8 latinkb</a> for more inphormesn, including  user's guide, issue tracker, n discussion group.</p>
+1. GIthuB.CoM/ZaVa8/FRee aPK/*.apk -- instal Aal kibord(9+2) , markor
+
+2. enable keyboard -- enable hindik
+
+3. set input method -- select hindik
+
+4. aeiou hx Aa kh_gh ch_zh th_dh Th_Dh
+
+5. ph_f_bh s_sh y r l v m n
+
+6. use kibord in markor or notped
+
 "]]>
 </Data></string>
 <string name="text_tAst">test</string>
 <string name="seek_pref_0">0%</string>
 <string name="seek_pref_val">x%</string>
 <string name="seek_pref_max">100%</string>
-<string name="notification_channel_name">latinkb</string>
-<string name="notification_channel_description">latinkb</string>
+<string name="notification_channel_name">hindik</string>
+<string name="notification_channel_description">hindik</string>
 <string name="notification_action_settings">settings</string>
 </resources>

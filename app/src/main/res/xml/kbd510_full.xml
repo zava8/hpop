@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Keyboard xmlns:android="http://schemas.android.com/apk/res-auto" android:keyWidth="7.1428571485%p" android:horizontalGap="0px" android:verticalGap="@dimen/key_bottom_gap" android:layoutRows="5" android:layoutColumns="14">
-    <Row android:rowEdgeFlags="top" android:extension="true">
-        <Key android:keyLabel="A" android:codes="@integer/key_fkey_f1" android:isModifier="true" android:keyEdgeFlags="left"/>
-        <Key android:keyLabel="a" android:codes="@integer/key_fkey_f2" android:isModifier="true" />
-        <Key android:keyLabel="i" android:codes="@integer/key_fkey_f3" android:isModifier="true" />
-        <Key android:keyLabel="u" android:codes="@integer/key_fkey_f4" android:isModifier="true" />
-        <Key android:keyLabel="e" android:codes="@integer/key_fkey_f5" android:isModifier="true" />
-        <Key android:keyLabel="o" android:codes="@integer/key_fkey_f6" android:isModifier="true" />
-        <Key android:keyLabel="N" android:codes="@integer/key_fkey_f7" android:isModifier="true" />
-        <Key android:keyLabel="y" android:codes="@integer/key_fkey_f8" android:isModifier="true" />
-        <Key android:keyLabel="\?9" android:codes="@integer/key_fkey_f9" android:isModifier="true" />
-        <Key android:keyLabel="\?:" android:codes="@integer/key_fkey_f10" android:isModifier="true" />
-        <Key android:keyLabel="\?;" android:codes="@integer/key_fkey_f11" android:isModifier="true" />
-        <Key android:keyLabel="\?&lt;" android:codes="@integer/key_fkey_f12" android:isModifier="true" />
-	    <Key android:codes="@integer/key_home" android:isModifier="true" android:keyLabel="hom" />
-	    <Key android:codes="@integer/key_end" android:isModifier="true" android:keyLabel="end" android:keyEdgeFlags="right" />/>
-    </Row>
+<!--    <Row android:rowEdgeFlags="top" android:extension="true">-->
+<!--        <Key android:keyLabel="A" android:codes="@integer/key_fkey_f1" android:isModifier="true" android:keyEdgeFlags="left"/>-->
+<!--        <Key android:keyLabel="a" android:codes="@integer/key_fkey_f2" android:isModifier="true" />-->
+<!--        <Key android:keyLabel="i" android:codes="@integer/key_fkey_f3" android:isModifier="true" />-->
+<!--        <Key android:keyLabel="u" android:codes="@integer/key_fkey_f4" android:isModifier="true" />-->
+<!--        <Key android:keyLabel="e" android:codes="@integer/key_fkey_f5" android:isModifier="true" />-->
+<!--        <Key android:keyLabel="o" android:codes="@integer/key_fkey_f6" android:isModifier="true" />-->
+<!--        <Key android:keyLabel="N" android:codes="@integer/key_fkey_f7" android:isModifier="true" />-->
+<!--        <Key android:keyLabel="y" android:codes="@integer/key_fkey_f8" android:isModifier="true" />-->
+<!--        <Key android:keyLabel="\?9" android:codes="@integer/key_fkey_f9" android:isModifier="true" />-->
+<!--        <Key android:keyLabel="\?:" android:codes="@integer/key_fkey_f10" android:isModifier="true" />-->
+<!--        <Key android:keyLabel="\?;" android:codes="@integer/key_fkey_f11" android:isModifier="true" />-->
+<!--        <Key android:keyLabel="\?&lt;" android:codes="@integer/key_fkey_f12" android:isModifier="true" />-->
+<!--	    <Key android:codes="@integer/key_home" android:isModifier="true" android:keyLabel="hom" />-->
+<!--	    <Key android:codes="@integer/key_end" android:isModifier="true" android:keyLabel="end" android:keyEdgeFlags="right" />/>-->
+<!--    </Row>-->
     <Row android:rowEdgeFlags="top">
         <!-- <Key android:keyLabel="@string/key_tlde_main" android:shiftLabel="@string/key_tlde_shift" android:popupKeyboard="@xml/kbd_popup_template"  android:keyWidth="4.5714285%p" android:keyEdgeFlags="left" /> -->
 <!--        <Key android:keyLabel="A" />-->
-        <Key android:keyLabel="A"  android:popupCharacters="" android:shiftLabel="Q" android:popupKeyboard="@xml/kbd_popup_template" />
-        <Key android:keyLabel="@string/key_ae02_main" android:popupCharacters="" android:shiftLabel="\@" android:popupKeyboard="@xml/kbd_popup_template" />
-        <Key android:keyLabel="@string/key_ae03_main" android:popupCharacters="" android:shiftLabel="I" android:popupKeyboard="@xml/kbd_popup_narrow_template" />
-        <Key android:keyLabel="@string/key_ae04_main" android:popupCharacters=""  android:shiftLabel="U" android:popupKeyboard="@xml/kbd_popup_narrow_template" />
-        <Key android:keyLabel="@string/key_ae05_main" android:popupCharacters=""  android:shiftLabel="E" android:popupKeyboard="@xml/kbd_popup_narrow_template" />
-        <Key android:keyLabel="@string/key_ae06_main" android:popupCharacters=""  android:shiftLabel="O" android:popupKeyboard="@xml/kbd_popup_narrow_template" />
+        <Key android:keyLabel="A"  android:popupCharacters="" android:shiftLabel="" android:popupKeyboard="@xml/kbd_popup_template" />
+        <Key android:keyLabel="@string/key_ae02_main" android:popupCharacters="" android:shiftLabel="" android:popupKeyboard="@xml/kbd_popup_template" />
+        <Key android:keyLabel="@string/key_ae03_main" android:popupCharacters="" android:shiftLabel="" android:popupKeyboard="@xml/kbd_popup_narrow_template" />
+        <Key android:keyLabel="@string/key_ae04_main" android:popupCharacters=""  android:shiftLabel="" android:popupKeyboard="@xml/kbd_popup_narrow_template" />
+        <Key android:keyLabel="@string/key_ae05_main" android:popupCharacters=""  android:shiftLabel="" android:popupKeyboard="@xml/kbd_popup_narrow_template" />
+        <Key android:keyLabel="@string/key_ae06_main" android:popupCharacters=""  android:shiftLabel="" android:popupKeyboard="@xml/kbd_popup_narrow_template" />
         <Key android:keyLabel="N" android:popupCharacters=""   android:shiftLabel="" android:popupKeyboard="@xml/kbd_popup_narrow_template" />
         <Key android:keyLabel="H" android:popupCharacters=""   android:shiftLabel="" android:popupKeyboard="@xml/kbd_popup_narrow_template" />
-        <Key android:keyLabel="@string/key_ae09_main" android:popupCharacters=""  android:shiftLabel="Y" android:popupKeyboard="@xml/kbd_popup_template" />
-        <Key android:keyLabel="@string/key_ae0t_main" android:popupCharacters=""  android:shiftLabel="R" android:popupKeyboard="@xml/kbd_popup_template" />
-        <Key android:keyLabel="@string/key_ae0j_main" android:popupCharacters=""  android:shiftLabel="L" android:popupKeyboard="@xml/kbd_popup_template" />
-        <Key android:keyLabel="@string/key_ae0k_main" android:popupCharacters=""  android:shiftLabel="V" android:popupKeyboard="@xml/kbd_popup_template" />
-        <Key android:keyLabel="@string/key_ae0d_main" android:popupCharacters=""  android:shiftLabel="M" android:popupKeyboard="@xml/kbd_popup_template" />
-        <Key android:keyLabel="@string/key_ae0x_main" android:popupCharacters=""  android:shiftLabel="N" android:popupKeyboard="@xml/kbd_popup_template"  />
+        <Key android:keyLabel="@string/key_ae09_main" android:popupCharacters=""  android:shiftLabel="" android:popupKeyboard="@xml/kbd_popup_template" />
+        <Key android:keyLabel="@string/key_ae0t_main" android:popupCharacters=""  android:shiftLabel="" android:popupKeyboard="@xml/kbd_popup_template" />
+        <Key android:keyLabel="@string/key_ae0j_main" android:popupCharacters=""  android:shiftLabel="" android:popupKeyboard="@xml/kbd_popup_template" />
+        <Key android:keyLabel="@string/key_ae0k_main" android:popupCharacters=""  android:shiftLabel="" android:popupKeyboard="@xml/kbd_popup_template" />
+        <Key android:keyLabel="@string/key_ae0d_main" android:popupCharacters=""  android:shiftLabel="" android:popupKeyboard="@xml/kbd_popup_template" />
+        <Key android:keyLabel="@string/key_ae0x_main" android:popupCharacters=""  android:shiftLabel="" android:popupKeyboard="@xml/kbd_popup_template"  />
     </Row>
     <Row>
         <Key android:codes="@integer/key_tab" android:keyIcon="@drawable/sym_keyboard_tab" android:iconPreview="@drawable/sym_keyboard_feedback_tab" android:keyEdgeFlags="left" android:isModifier="true" />

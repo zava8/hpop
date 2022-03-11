@@ -26,8 +26,10 @@
     <string name="key_ad08_main">D</string><string name="key_ad08_shift"></string><string name="key_ad08_alt">@string/alternates_for_w</string>
     <string name="key_ad09_main">p</string><string name="key_ad09_shift"></string><string name="key_ad09_alt">@string/alternates_for_p</string>
     <string name="key_ad0t_main">b</string><string name="key_ad0t_shift"></string><string name="key_ad0t_alt">@string/alternates_for_b</string>
-    <string name="key_ad0j_main">s</string><string name="key_ad0j_shift">{</string><string name="key_ad0j_alt">[{</string>
-    <string name="key_ad0k_main">f</string><string name="key_ad0k_shift">}</string><string name="key_ad0k_alt">]}</string>
+    <string name="key_ad0j_main">s</string>
+    <string name="key_ad0j_shift"></string><string name="key_ad0j_alt">[{</string>
+    <string name="key_ad0k_main">f</string>
+    <string name="key_ad0k_shift"></string><string name="key_ad0k_alt">]}</string>
     
     <string name="key_ac01_main">1</string><string name="key_ac01_shift"></string><string name="key_ac01_alt">@string/alternates_for_k</string>
     <string name="key_ac02_main">2</string><string name="key_ac02_shift"></string><string name="key_ac02_alt">@string/alternates_for_g</string>
@@ -44,15 +46,25 @@
     <string name="key_ab01_main">9</string><string name="key_ab01_shift"></string><string name="key_ab01_alt">@string/alternates_for_z</string>
     <string name="key_ab02_main">L</string><string name="key_ab02_shift"></string><string name="key_ab02_alt">@string/alternates_for_x</string>
     <string name="key_ab03_main">J</string><string name="key_ab03_shift"></string><string name="key_ab03_alt">@string/alternates_for_c</string>
-    <string name="key_ab04_main">q</string><string name="key_ab04_shift"></string><string name="key_ab04_alt">@string/alternates_for_v</string>
-    <string name="key_ab05_main">w</string><string name="key_ab05_shift"></string><string name="key_ab05_alt">@string/alternates_for_b</string>
+    <string name="key_ab04_main">Q</string><string name="key_ab04_shift"></string><string name="key_ab04_alt">@string/alternates_for_v</string>
+    <string name="key_ab05_main">W</string><string name="key_ab05_shift"></string><string name="key_ab05_alt">@string/alternates_for_b</string>
     <string name="key_ab06_main">X</string><string name="key_ab06_shift"></string><string name="key_ab06_alt">@string/alternates_for_n</string>
     <string name="key_ab07_main">F</string><string name="key_ab07_shift"></string><string name="key_ab07_alt">@string/alternates_for_m</string>
-    <string name="key_ab08_main">0</string><string name="key_ab08_shift">&lt;</string><string name="key_ab08_alt">,&lt;≤«‹</string>
-    <string name="key_ab09_main">.</string><string name="key_ab09_shift">&gt;</string><string name="key_ab09_alt">.&gt;≥»›…</string>
-    <string name="key_ab0t_main">/</string><string name="key_ab0t_shift">\?</string><string name="key_ab0t_alt">/\?¿</string>
+    <string name="key_ab08_main">0</string>
+    <string name="key_ab08_shift"></string>
+    <string name="key_ab08_alt">,&lt;≤«‹</string>
+    <string name="key_ab09_main">.</string>
+    <string name="key_ab09_shift"></string>
+    <string name="key_ab09_alt">.&gt;≥»›…</string>
+    <string name="key_ab0t_main">/</string>
+    <string name="key_ab0t_shift"></string>
+    <string name="key_ab0t_alt">/\?¿</string>
  
-    <string name="key_bksl_main">\\</string><string name="key_bksl_shift">|</string><string name="key_bksl_alt">\\|</string>
-    <string name="key_lsgt_main"></string><string name="key_lsgt_shift"></string><string name="key_lsgt_alt"></string>
+    <string name="key_bksl_main">\\</string>
+    <string name="key_bksl_shift">|</string>
+    <string name="key_bksl_alt">\\|</string>
+    <string name="key_lsgt_main"></string>
+    <string name="key_lsgt_shift"></string>
+    <string name="key_lsgt_alt"></string>
     <string name="key_space_shift"></string>
 </resources>

@@ -17,7 +17,7 @@
     />
 
     <TextView android:id="@+id/text"
-        android:fontFamily="@font/latin54"
+        android:fontFamily="@font/hin54"
         android:text="@string/voice_punctuation_hint"
         android:layout_height="wrap_content"
         android:layout_width="wrap_content"
