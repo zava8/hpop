@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Keyboard xmlns:android="http://schemas.android.com/apk/res-auto" android:keyWidth="7.1428571485%p" android:horizontalGap="0px" android:verticalGap="@dimen/key_bottom_gap" android:layoutRows="5" android:layoutColumns="14">
+<Keyboard xmlns:android="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:keyWidth="7.1428571485%p" android:horizontalGap="0px" android:verticalGap="@dimen/key_bottom_gap" android:layoutRows="5" android:layoutColumns="14"
+    tools:ignore="NamespaceTypo">
     <Row android:rowEdgeFlags="top" android:extension="true">
         <Key android:keyLabel="\?1" android:codes="@integer/key_fkey_f1" android:isModifier="true" android:keyEdgeFlags="left"/>
         <Key android:keyLabel="\?2" android:codes="@integer/key_fkey_f2" android:isModifier="true" />

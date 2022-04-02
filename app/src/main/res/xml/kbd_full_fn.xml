@@ -31,9 +31,9 @@
 <Row>
 <Key android:keyIcon="@drawable/simbl_ctrl" android:keyWidth="10%p" android:codes="@integer/key_ctrl_left" android:isSticky="true" android:keyEdgeFlags="left" android:isModifier="true" />
 <Key android:codes="@integer/key_fkey_f9" android:keyWidth="8.035714%p" android:isModifier="true" android:keyLabel="p9" />
-<Key android:codes="@integer/key_fkey_f10" android:keyWidth="8.035714%p" android:isModifier="true" android:keyLabel="p:" />
-<Key android:codes="@integer/key_fkey_f11" android:keyWidth="8.035714%p" android:isModifier="true" android:keyLabel="p;" />
-<Key android:codes="@integer/key_fkey_f12" android:keyWidth="8.035714%p" android:isModifier="true" android:keyLabel="p&lt;" />
+<Key android:codes="@integer/key_fkey_f10" android:keyWidth="8.035714%p" android:isModifier="true" android:keyLabel="pL" />
+<Key android:codes="@integer/key_fkey_f11" android:keyWidth="8.035714%p" android:isModifier="true" android:keyLabel="pJ" />
+<Key android:codes="@integer/key_fkey_f12" android:keyWidth="8.035714%p" android:isModifier="true" android:keyLabel="pQ" />
 <Key android:keyWidth="8.035714%p" android:keyLabel="5" android:popupCharacters="N" />
 <Key android:keyWidth="8.035714%p" android:keyLabel="6" android:popupCharacters="Q" />
 <Key android:keyWidth="8.035714%p" android:keyLabel="7" android:popupCharacters="R" />

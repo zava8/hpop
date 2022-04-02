@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-<string name="english_ime_name">hindik</string>
-<string name="english_ime_settings">hindik setiNg</string>
+<string name="english_ime_name">mlyalmk</string>
+<string name="english_ime_settings">mlyalmk setiNg</string>
 <string name="english_ime_input_options">input opsns</string>
 <string name="title_keyboard_view_settings">kibord viyu setiNg</string>
 <string name="title_keyboard_height_portrait">kibord hait portret</string>
@@ -339,9 +339,9 @@
 <![CDATA["
 1. GIthuB.CoM/ZaVa8/FRee aPK/*.apk -- instal Aal kibord(9+2) , markor
 
-2. enable keyboard -- enable hindik
+2. enable keyboard -- enable mlyalmk
 
-3. set input method -- select hindik
+3. set input method -- select mlyalmk
 
 4. aeiou hx Aa kh_gh ch_zh th_dh Th_Dh
 
@@ -355,7 +355,7 @@
 <string name="seek_pref_0">0%</string>
 <string name="seek_pref_val">x%</string>
 <string name="seek_pref_max">100%</string>
-<string name="notification_channel_name">hindik</string>
-<string name="notification_channel_description">hindik</string>
+<string name="notification_channel_name">mlyalmk</string>
+<string name="notification_channel_description">mlyalmk</string>
 <string name="notification_action_settings">settings</string>
 </resources>

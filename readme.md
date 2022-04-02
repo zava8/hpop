@@ -1,14 +1,14 @@
-# **[daunlod](./daunlod/)** me zakr latinkb.apk pr klik kre. **[डाउनलोड](./daunlod/)** में जाकर latinkb.apk पर क्लिक करें।
+# **[daunlod](./daunlod/)** me zakr tmilk.apk pr klik kre. **[डाउनलोड](./daunlod/)** में जाकर tmilk.apk पर क्लिक करें।
 
 ![daunlod kre](./cms/daunlod_hao1.png)
 
-[latinkb.apk . कैसे डाउनलोड करें के लिए वीडियो latinkb.apk kAise daunlod kre ke liye vidio](https://youtu.be/hHlG011mZc8)
+[tmilk.apk . कैसे डाउनलोड करें के लिए वीडियो tmilk.apk kAise daunlod kre ke liye vidio](https://youtu.be/hHlG011mZc8)
 
-1. fir Apne mobile ke folders me zae Aur Download folder me latinkb.apk ko click/dbl_klik krke instal krna shuru kre.फिर अपने मोबाइल के फोल्डर में जाएं और डाउनलोड फोल्डर में latinkb.apk इंस्टॉल करना शुरू करने के लिए क्लिक/डबल_क्लिक करें।
+1. fir Apne mobile ke folders me zae Aur Download folder me tmilk.apk ko click/dbl_klik krke instal krna shuru kre.फिर अपने मोबाइल के फोल्डर में जाएं और डाउनलोड फोल्डर में tmilk.apk इंस्टॉल करना शुरू करने के लिए क्लिक/डबल_क्लिक करें।
 
 1. open kre.
     1. st input mATHAd btn klik kre
-    2. **latinkb** selekt kre
+    2. **tmilk** selekt kre
 
 1. **[google play store me zae Aur zFont 3](https://play.google.com/store/apps/details?id=com.htetznaing.zfont2)** search kre Aur **install** kre.
 
@@ -19,11 +19,11 @@
        4. Apply btn klik kre.
        5. reboot btn klik kre.
 
-## Ab apke phone me latinkb keyboard ke saTh lato5r.ttf instal ho gye h
+## Ab apke phone me tmilk keyboard ke saTh lato5r.ttf instal ho gye h
 
 ### [hex nmbrs : 0123456789LJQWXF](http://github.com/zava8/hex) mlyalm Telugu hinDi guzraTi mrathi bNgali pnzabi urDu knrra Tmil
 
-![hinDiabc keyboard](./cms/kiiz_sym_hindi_latinkb_phoniks.gif)
+![hinDiabc keyboard](./cms/kiiz_sym_hindi_tmilk_phoniks.gif)
 
 [zinglish for :](http://zinglish.vercel.app)
     1. hinDi / mrathi / nepali / grrvali / urDu
@@ -66,7 +66,7 @@ vhen user press this button , tekst on current vebpage gets changed as in bilo s
 5. heksadesiml nmbrs
 
 ### reletid liNks
-1. [gitHb ripojitri](http://github.com/Font77/latinkb)
+1. [gitHb ripojitri](http://github.com/Font77/tmilk)
 2. [roboto phonts daunlod qur instal kre][roboto heksbin phonts]
 3. [vk](http://vk.com/etphor)
 4. [tmblr](http://heksinglish.tumblr.com)
@@ -98,6 +98,6 @@ vhen user press this button , tekst on current vebpage gets changed as in bilo s
 
 #### rephrens lifks:  
 [cms]: ./cms/
-[latinkb_heks.apk]: https://github.com/Font77/heks810/blob/master/latinkb_heks.apk
+[tmilk_heks.apk]: https://github.com/Font77/heks810/blob/master/tmilk_heks.apk
 
 font **fontforge** 
