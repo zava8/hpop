@@ -1,16 +1,16 @@
 {
   "project_info": {
     "project_number": "755194097103",
-    "firebase_url": "https://mlyalmk-d09cd.firebaseio.com",
-    "project_id": "mlyalmk-d09cd",
-    "storage_bucket": "mlyalmk-d09cd.appspot.com"
+    "firebase_url": "https://hindik-d09cd.firebaseio.com",
+    "project_id": "hindik-d09cd",
+    "storage_bucket": "hindik-d09cd.appspot.com"
   },
   "client": [
     {
       "client_info": {
         "mobilesdk_app_id": "1:755194097103:android:0005107bcbde3d9ab5f6ba",
         "android_client_info": {
-          "package_name": "org.kiibord.mlyalmk"
+          "package_name": "org.kiibord.hindik"
         }
       },
       "oauth_client": [
