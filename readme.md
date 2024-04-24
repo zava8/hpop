@@ -1,13 +1,13 @@
-# **[daunlod](./daunlod/)** me zakr tmilk.apk pr klik kre. **[डाउनलोड](./daunlod/)** में जाकर tmilk.apk पर क्लिक करें।
+# **[daunlod](./daunlod/)** me zakr tmilk.apk pr klik kre.
 
 ![daunlod kre](./cms/daunlod_hao1.png)
 
 [tmilk.apk . कैसे डाउनलोड करें के लिए वीडियो tmilk.apk kAise daunlod kre ke liye vidio](https://youtu.be/hHlG011mZc8)
 
-1. fir Apne mobile ke folders me zae Aur Download folder me tmilk.apk ko click/dbl_klik krke instal krna shuru kre.फिर अपने मोबाइल के फोल्डर में जाएं और डाउनलोड फोल्डर में tmilk.apk इंस्टॉल करना शुरू करने के लिए क्लिक/डबल_क्लिक करें।
+1. fir Apne mobile ke folders me zae Aur Download folder me tmilk.apk ko click/dbl_klik krke instal krna shuru kre.
 
 1. open kre.
-    1. st input mATHAd btn klik kre
+    1. set input method btn klik kre
     2. **tmilk** selekt kre
 
 1. **[google play store me zae Aur zFont 3](https://play.google.com/store/apps/details?id=com.htetznaing.zfont2)** search kre Aur **install** kre.
